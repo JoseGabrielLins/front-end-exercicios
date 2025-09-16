@@ -25,4 +25,4 @@ if (form == 1){
 
 
 let soma = pontuacaoxp + pont;
-alert(soma);
+alert('Sua pontuação e: ' + soma);
